@@ -1,6 +1,8 @@
 # Atividade 1 - Provisionamento de Infraestrutura Web na AWS com Terraform
 
 Este projeto contém o código Terraform para provisionar a infraestrutura mínima na AWS para hospedar uma página web simples, cumprindo os requisitos da Atividade 1.
+Aluno: Júlio Rodrigues de Aguiar Santos
+E-mail: jras2@cesar.school
 
 ## Pré-requisitos
 - [Terraform](https://developer.hashicorp.com/terraform/downloads) instalado
